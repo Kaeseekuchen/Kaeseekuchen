@@ -6,7 +6,7 @@
 - 🎨 Web-Design mit **Vue & HTML/CSS**   
 
 ### 🔥 Aktuelle Projekte:
-- 🛠️ **NickPlugin** SCP:SL  
+- 🛠️ **SimpleNick** SCP:SL  
 - 🌐 **Ravenblack** Website & Discord-Community  
 - 🤖 **Discord-Bot** RBVS - Ravenblack VoiceSupport
 
