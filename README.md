@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, ich bin Kaesekuchen!
 
-<!--
-**Kaeseekuchen/Kaeseekuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Über mich:
+- 🎮 **SCP: Secret Laboratory**-Server Owner
+- 💻 Dude der bock auf mit Fokus auf **Node.js & HTML** hat lol
+- 🎨 Web-Design mit **Vue & HTML/CSS**   
 
-Here are some ideas to get you started:
+### 🔥 Aktuelle Projekte:
+- 🛠️ **NickPlugin** SCP:SL  
+- 🌐 **Ravenblack** Website & Discord-Community  
+- 🤖 **Discord-Bot** RBVS - Ravenblack VoiceSupport
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Skills:
+- 🎮 **SCP:SL-Server & Plugins**  
+- 💾 **Backend mit Node.js & YML-Datenverwaltung**  
+
+### 🌍 Finde mich hier:
+- **Discord: discord.gg/UFytdZxeeR** 🟢 Aktiver Community-Host  
+- **GitHub: github.com/Kaeseekuchen/** 📂 Kommende Projekte & Codes  
+
+> 💬 "Code ist wie ein gutes Auto: Läuft sauber, bis du dran rumschraubst."  
