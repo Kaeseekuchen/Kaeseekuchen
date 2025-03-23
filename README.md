@@ -1,7 +1,7 @@
 # 👋 Hey, ich bin Kaesekuchen!
 
 ### 🚀 Über mich:
-- 🎮 **SCP: Secret Laboratory**-Server Owner
+- 🎮 **SCP: Secret Laboratory**-Server Co-Owner
 - 💻 Dude der bock auf mit Fokus auf **Node.js & HTML** hat lol
 - 🎨 Web-Design mit **Vue & HTML/CSS**   
 
